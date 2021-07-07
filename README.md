@@ -13,3 +13,6 @@ To use this, go to this link : chrome://extensions/ and then click on developer 
 <br>
 Save Input button(or enter key) saves the text you write in the input box<br>Save Tab button(or insert key) saves the current window's tab link.<br>Delete All button(or delete key) removes all the data that was stored in the list.
 </p>
+<br>
+<br>
+<p>NOTE: The insert key will only work when you have deployed the code. All the other keys work perfectly fine.</p>
