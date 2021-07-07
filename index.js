@@ -76,7 +76,7 @@ function renderleads(){
     
 }
 
-delete_all.addEventListener("dblclick",function()
+delete_all.addEventListener("click",function()
 {
     localStorage.clear();
     myleads = [];
