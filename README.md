@@ -15,4 +15,4 @@ Save Input button(or enter key) saves the text you write in the input box<br>Sav
 </p>
 <br>
 <br>
-<p>NOTE: The insert key will only work when you have deployed the code. All the other keys work perfectly fine.</p>
+<h5>NOTE:</h5> <p>The insert key will only work when you have deployed the code. All the other keys work perfectly fine.</p>
