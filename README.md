@@ -5,7 +5,7 @@ https://vishalchoubey1019.github.io/chrome-extension/
 ---
 
 <p>
-This is chrome extension which helps you to keep track of all the links you want to save. As a sales representative this tool is highly useful because you have to move to different websites and check on profiles and others and save their profile links but since it's very tedious to store them somewhere, leads-tracker helps you to do that and hence a lot of time is saved.
+This is chrome extension which helps you to keep track of all the links you want to save.<br><h5>Uses:</h5><br>For attending classes or meetings of various clubs, you can save all the meeting links here<br>You can also save important questions or tabs directly from the save tab button. 
 <br>
 <br>
 To use this, go to this link : chrome://extensions/ and then click on developer mode.<br>Click on load unpacked and then click on the folder in which you have downloaded codes from https://github.com/VishalChoubey1019/chrome-extension <br>Now you can easily use my google chrome extension for free, saving an ample amount of time.
