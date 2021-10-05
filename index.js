@@ -55,7 +55,7 @@ function renderleads(){
     {
         listitems += ` 
         <li>
-            <a target = '_blank' href = '${myleads[i]}'>
+            <a target = '_blank' href = '${myleads[i]}'>        //InLineHTML
                 ${myleads[i]}
             </a>    
         </li>
@@ -68,6 +68,7 @@ function renderleads(){
     // let listitems = "";
     // listitems += "<li>" + inputEl.value + "</li>";
     // ulel.innerHTML = listitems;    
+    
     // ANOTHER WAY TO USE THE ABOVE CODE 
     // const li = document.createElement("li");
     // li.textContent = inputEl.value;
